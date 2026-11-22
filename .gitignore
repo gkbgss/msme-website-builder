@@ -1,0 +1,29 @@
+# Confidential / Client certificates & documents
+udyam/
+*.pdf
+
+# Temporary test scripts & scratch files
+scratch/
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables & local configurations
+.env
+.env.local
+
+# Operating system & editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
